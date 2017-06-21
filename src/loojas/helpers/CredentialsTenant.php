@@ -2,8 +2,6 @@
 
 namespace Loojas\Helpers;
 
-use LogicException;
-
 /**
  * Class CredentialsTenant
  * @package Loojas\Helpers
